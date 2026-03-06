@@ -41,19 +41,15 @@ footer {
   .hero-title {
     margin-top: 200px;
     color: #fff;
-    font-size: 3.2rem;
+    font-size: 3rem;
   }
 
   .footer-page p {
     color: #fff;
-    margin-top: 24px;
+    margin-top: 80px;
   }
 
   .mentor {
     text-align: center;
-  }
-
-  .grid-temp {
-    margin-bottom: 50px;
   }
 }
