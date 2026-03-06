@@ -41,11 +41,12 @@ footer {
   .hero-title {
     margin-top: 200px;
     color: #fff;
-    font-size: 3.5rem;
+    font-size: 3.2rem;
   }
 
   .footer-page p {
     color: #fff;
+    margin-top: 24px;
   }
 
   .mentor {
