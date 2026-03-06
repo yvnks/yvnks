@@ -6,9 +6,10 @@
 }
 
 body {
-  font-family: 'Poppins', Verdana;
+  font-family: 'Inter', sans-serif;
   line-height: 1.6;
   overflow-x: hidden;
+  background-color: rgb(84, 35, 231);
 }
 
 html {
@@ -22,11 +23,32 @@ section > h3 {
 .git-link{
   color: #000;
 }
+footer {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: row-reverse;
+  justify-content: center;
+}
 
+.git-link {
+  color: #fff;
+}
 @media (max-width: 480px) {
-  .hero-title {
-    font-size: 2.5rem;
+
+  .hero {
+    margin-bottom: 200px;
   }
-  body {
-    font-family: Verdana;
+  .hero-title {
+    margin-top: 100px;
+    color: #fff;
+    font-size: 3rem;
+  }
+
+  .footer-page p {
+    color: #fff;
+  }
+
+  .mentor {
+    text-align: center;
+  }
 }
