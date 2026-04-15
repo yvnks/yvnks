@@ -4,7 +4,8 @@ This is my personal journal on the internet. I'm learning how things really work
 i'm adapting fast to future tech glory through education and personal projects.
 
 I'm a senior year information technology student awaiting grad mid year (2026). 
-Currently figuring out how the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web), and also [How the internet works](https://en.wikipedia.org/wiki/Internet).
+Currently figuring out how the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web),works
+and also [How the internet works](https://en.wikipedia.org/wiki/Internet).
 
 
 
