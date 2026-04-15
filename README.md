@@ -1,4 +1,4 @@
- # 👋🏽 Hi, i'm Jeff.
+ ## 👋🏽 Hi, i'm Jeff.
 
 This is my personal journal on the internet. I'm learning how things really work and 
 i'm adapting fast to future tech glory through education and personal projects.
