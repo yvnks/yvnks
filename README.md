@@ -1,4 +1,4 @@
- ## 👋🏽 Hi, i'm Jojo.
+ ## 👋🏽 Hi, I'm Jeff.
 
 This is my personal journal on the internet. I'm learning how things really work and 
 i'm adapting fast to future tech glory through education and personal projects.
@@ -9,7 +9,7 @@ and also, [How the internet works](https://en.wikipedia.org/wiki/Internet).
 
 
 
-### What i'm studying currently: 
+### What my study plate looks like: 
 - **Vanilla Js**: Learning about Advance DOM manipulation, OOP, Async / await functions, Promises, fetch, Event loops etc.
 - **Version control with Git**: Learning about branches, merges (fast forward, three way merges), merge conflicts, rebasing and collaborating with Git.
 
