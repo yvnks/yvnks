@@ -9,16 +9,16 @@ and also, [How the internet works](https://en.wikipedia.org/wiki/Internet).
 
 
 
-### What my study plate looks like: 
-- **Vanilla Js**: Learning about Advance DOM manipulation, OOP, Async / await functions, Promises, fetch, Event loops etc.
-- **Version control with Git**: Learning about branches, merges (fast forward, three way merges), merge conflicts, rebasing and collaborating with Git.
+### what my study plan looks like: 
+- **vanilla Js**: Learning about Advance DOM manipulation, OOP, Async / await functions, Promises, fetch, Event loops etc.
+- **version control with Git**: Learning about branches, merges (fast forward, three way merges), merge conflicts, rebasing and collaborating with Git.
 
 My goal is to equip myself in becoming a MERN stack engineer by the end of 2026.
 
-### Books i'm reading:
-- **How things work**: By Charles F. Bowman
-- **Learning Git**: By Anna Skoulkari
-- **JavaScript**: By David Flanagan
+#### books i'm reading:
+- **[How things work](https://www.amazon.com/s?k=How+Things+Work+The+Computer+Science+Edition+Charles+F.+Bowman&utm_source=chatgpt.com)**: By Charles F. Bowman - build foundational understanding.
+- **[Learning Git](https://www.amazon.com/s?k=Learning+Git+Anna+Skoulikari&utm_source=chatgpt.com)**: By Anna Skoulkari - learn version control alongside your projects.
+- **[Secrets of the JavaScript Ninja](https://www.amazon.com/s?k=Secrets+of+the+JavaScript+Ninja+Third+Edition&utm_source=chatgpt.com)**: By John Resig - use as a deep reference while coding.
 
 ---
 
